@@ -1,4 +1,4 @@
-![m16d_paso_f](https://user-images.githubusercontent.com/93337532/198902776-4b67a1a5-3f3c-4681-b110-3db3133661bf.png)
+![Untitled](https://user-images.githubusercontent.com/93337532/198903220-d138116e-9bd7-4946-95a2-61fa2a9b58d2.png)
 
 ### Founder of Cerberus Corporation AG
 
