@@ -2,7 +2,7 @@
 
 ### Founder of Cerberus Corporation AG
 
-- 🧑‍🍳 I love cooking games
+- 🍳 I love cooking games
 - 🌱 I’m currently deepening my knowledge of Simple DirectMedia Layer (SDL2.0)
 - 💬 Approach me in 🇪🇦 🇬🇧 or 🇩🇪
 - 🐥 Twitter: @punctual87
