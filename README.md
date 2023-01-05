@@ -4,7 +4,7 @@
 
 - 🍳 I love cooking games
 - 🌱 I’m currently deepening my knowledge of Simple DirectMedia Layer (SDL2.0)
-- 💬 Approach me in 🇪🇦 🇬🇧 or 🇩🇪
+- 💬 Approach me in spanish, english or german
 - 🐥 Twitter: @punctual87
 
 <!--
