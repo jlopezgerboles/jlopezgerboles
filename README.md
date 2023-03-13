@@ -1,9 +1,9 @@
 ![Untitled](https://user-images.githubusercontent.com/93337532/214655046-ef6ca8d8-820f-44d3-ac0d-01bf7c4d579d.png)
 
-### Founder of Cerberus Corporation AG
+### Owner of SESAG
 
 - 🍳 I love cooking games
-- 🌱 I’m currently deepening my knowledge of Simple DirectMedia Layer (SDL2.0)
+- 🔪 My preferred tools are SDL, OpenGL, Vulkan and C
 - 💬 Approach me in spanish, english or german
 - 🐥 Twitter: @punctual87
 
