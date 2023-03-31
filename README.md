@@ -1,6 +1,6 @@
 ![Untitled](https://user-images.githubusercontent.com/93337532/214655046-ef6ca8d8-820f-44d3-ac0d-01bf7c4d579d.png)
 
-### Owner of SESAG
+### Member of the Board of Directors at SESAG
 
 - 🍳 I love cooking games
 - 🔪 My preferred tools are SDL, OpenGL, Vulkan and C
