@@ -5,7 +5,6 @@
 - 🍳 I love cooking games
 - 🔪 My preferred tools are SDL, OpenGL, Vulkan and C
 - 💬 Approach me in spanish, english or german
-- 🐥 Twitter: @punctual87
 
 <!--
 **jlopezgerboles/jlopezgerboles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
