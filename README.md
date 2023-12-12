@@ -1,4 +1,4 @@
-![Untitled](https://user-images.githubusercontent.com/93337532/214655046-ef6ca8d8-820f-44d3-ac0d-01bf7c4d579d.png)
+![Profile2](https://github.com/jlopezgerboles/jlopezgerboles/assets/93337532/c8a8ce23-45f1-4d0b-b5ed-5ad72c076c2d)
 
 ### Member of the Board of Directors at SESAG
 
