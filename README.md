@@ -2,7 +2,7 @@
 
 - 🍳 I love cooking games.
 - 🔪 SDL, OpenGL, Vulkan and C are my preferred tools.
-- ♥️ Love to collaborate with Game Designers around the world to bring their game ideas to life.
+- ♥️ Love to collaborate with Game Designers around the world to bring their games to life.
 - 💬 English, Spanish or German will do with me.
 
 <!--
